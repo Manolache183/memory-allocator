@@ -1,0 +1,1 @@
+This is a memory allocator implemented in C, using mmap, brk and linked lists.
